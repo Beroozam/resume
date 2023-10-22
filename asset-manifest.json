@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/resume/static/css/main.073c9b0a.css",
-    "main.js": "/resume/static/js/main.3e0d35df.js",
+    "main.css": "/resume/static/css/main.a62be87c.css",
+    "main.js": "/resume/static/js/main.c53b7af6.js",
     "static/js/787.dc9ee2bf.chunk.js": "/resume/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/personal.jpeg": "/resume/static/media/personal.6ae3890f1232ddf0acb1.jpeg",
+    "static/media/flagRoundedIran.svg": "/resume/static/media/flagRoundedIran.3fe4e0592f5c5b7114bbab3223028296.svg",
+    "static/media/usaFlag.svg": "/resume/static/media/usaFlag.6bfa3fc5dead5ace487f6cc7b35e269b.svg",
+    "static/media/flagRoundedUsa.svg": "/resume/static/media/flagRoundedUsa.0083f886d2d0d5fded0f7e7c7c02497e.svg",
+    "static/media/iranFlag.svg": "/resume/static/media/iranFlag.8984e61e2d397cd1529121a7eafbdc55.svg",
     "index.html": "/resume/index.html",
-    "main.073c9b0a.css.map": "/resume/static/css/main.073c9b0a.css.map",
-    "main.3e0d35df.js.map": "/resume/static/js/main.3e0d35df.js.map",
+    "static/media/chevronDown.svg": "/resume/static/media/chevronDown.930d6758ec0105e9aa86564caeeb60b2.svg",
+    "main.a62be87c.css.map": "/resume/static/css/main.a62be87c.css.map",
+    "main.c53b7af6.js.map": "/resume/static/js/main.c53b7af6.js.map",
     "787.dc9ee2bf.chunk.js.map": "/resume/static/js/787.dc9ee2bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3e0d35df.js"
+    "static/css/main.a62be87c.css",
+    "static/js/main.c53b7af6.js"
   ]
 }
