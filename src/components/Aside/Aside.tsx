@@ -17,7 +17,7 @@ const ListAddress = ({children}) => {
 }
 
 const LinkAddressComponent = ({children,link,className}:{children:any,link:string,className?:string}) => {
-  return <a className={`text-gray-600 text-xl ${className}`} href={link} target="_blank">{children}</a>
+  return <a className={`text-gray-600 text-xl ${className}`} href={link} target="_blank" rel="noreferrer">{children}</a>
 }
 
 export default function Aside(){

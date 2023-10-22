@@ -13,14 +13,14 @@ const SelectedLanguage = () => {
     return (
         <div className={`flex flex-row items-center`} >
           <span className={`text-lg me-2`}>{t("langPersian")}</span>
-          <img className={`max-h-[24px]`} src={IranFlag}/>
+          <img className={`max-h-[24px]`} src={IranFlag} alt=""/>
         </div>
     )
   }else if(language === 'en'){
     return (
         <div className={`flex flex-row items-center`} >
           <span className={`text-lg me-2`}>{t("langEnglish")}</span>
-          <img className={`max-h-[24px]`} src={UsaFlag}/>
+          <img className={`max-h-[24px]`} src={UsaFlag} alt="" />
         </div>
     )
   }
