@@ -31,9 +31,9 @@ jobs:
           if [ -e pnpm-lock.lock ]; then
           pnpm install --frozen-lockfile
           elif [ -e package-lock.json ]; then
-          npm ci
+          npm ci --legacy-peer-deps
           else
-          npm i
+          npm i --legacy-peer-deps
           fi
       - run: npm ci --legacy-peer-deps
       - run: npm run build --if-present
