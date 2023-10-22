@@ -35,7 +35,6 @@ jobs:
           else
           npm i --legacy-peer-deps
           fi
-      - run: npm ci --legacy-peer-deps
       - run: npm run build --if-present
 
       - name: Deploy with gh-pages
