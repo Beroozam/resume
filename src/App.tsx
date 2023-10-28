@@ -5,7 +5,7 @@ import Layout from "components/Layout/Layout";
 function App() {
   // const {t,i18n:{dir,changeLanguage,language}} = useTranslation()
   return (
-    <div className="" ref={targetRef}>
+    <div className="">
       <Header />
       <Layout/>
     </div>
