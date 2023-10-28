@@ -59,7 +59,7 @@ export default function Aside(){
           </ListAddress>
           <ListAddress>
             <IconComponent Icon={WebSite}/>
-            <LinkAddressComponent link={`https://beroozam.ir`}>
+            <LinkAddressComponent link={`https://beroozam.github.com/resume`}>
               https://beroozam.ir
             </LinkAddressComponent>
           </ListAddress>
