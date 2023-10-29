@@ -4,7 +4,7 @@ import Layout from "components/Layout/Layout";
 function App() {
   return (
     <div className="">
-      <Header />
+      {/*<Header />*/}
       <Layout/>
     </div>
   );
