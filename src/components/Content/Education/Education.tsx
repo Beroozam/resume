@@ -1,14 +1,15 @@
 import Title from "components/Content/Experience/Title";
+import {useTranslation} from "react-i18next";
 
 export default function Education(){
-
+    const {t} = useTranslation("translation")
   return (
       <div className={`py-10`}>
         <Title
-          company={`Associate's degree - Electrical and Electronics Engineering`}
+          company={`Electrical and Electronics Engineering`}
           date={`2011-2014`}
         >
-          Payame Noor University
+            {t('degree')}
         </Title>
       </div>
   )
